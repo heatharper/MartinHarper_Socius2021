@@ -1,0 +1,9 @@
+<impartial>
+
+
+Impartial Analysis from City Attorney
+This measure would increase the City's Transient Occupancy Tax, commonly known as the "hotel tax", from 10% to 12%. The hotel tax is charged by the City to guests at hotels located in Palo Alto. The tax is computed by multiplying the rent charged by the hotel operator by the tax rate percentage. For example, a guest paying a $100 hotel rate for a one night stay would see their total hotel tax increase from $10 to $12 if this measure is adopted. Guests with occupancies of longer than 30 days are not subject to the tax.
+Hotel tax revenue accounts for more than 5 percent of the City's total general fund revenue. The City estimates that the hotel tax revenues from this 2% increment will generate additional hotel tax revenues of approximately $1,200,000, which will be available to the City for any general fund purpose, such as police, fire, public works, capital improvements, parks and recreation, and library.
+Hotel tax rates vary from city to city. Across California, tax rates range from a low of 8% to a high of 15%. This tax measure imposes a general tax and will take effect if passed by a simple majority (50% + 1) of voters casting a vote on the measure. If the measure does not pass, the hotel tax would remain at 10%.
+
+<impartialend>

@@ -1,0 +1,47 @@
+<impartial>
+
+IMPARTIAL ANALYSIS OF MEASURE T
+
+The City of Brisbane imposes a general business license tax which is
+based upon annual gross receipts. The proceeds of the general tax can be
+used for any municipal purpose. For a business having annual gross
+receipts of $10,000,000 or more, the general tax would be $1,300 plus 40
+per $1,000 of gross receipts over $10,000,000. Measure T will amend the
+City’s business license tax to establish a special tax that would apply only
+to businesses having annual gross receipts in excess of $10,000,000. The
+proceeds of the special tax can be used only for the acquisition,
+construction, installation, maintenance, repair or replacement of capital
+improvements owned or to be constructed or acquired by the City. “Capital
+improvement” is defined as any asset having an acquisition, construction,
+or installation cost of $25,000 or more and a useful life of 10 years or more.
+
+The amount of the special tax is 7 per $100 of annual gross receipts
+of persons subject to the tax, reduced by the amount of general business
+license taxes paid by that person and further reduced by the amount of any
+sales tax paid by that person during the same year. For example, a company
+with gross receipts of $10,000,001 would be charged a special tax of
+$7,500 ($10,000,000 - 100 = $100,000 x .075 = $7,500). The same
+company would owe a general business license tax of $1,300 (based upon
+the existing tax ordinance), which would be offset against the special tax.
+Consequently, the total owed would be $1,300 as a general tax plus $6,200
+($7,500 less $1,300) as a special tax, for a combined total of $7,500. If that
+same company also paid $5,000 in sales tax, such amount would be applied
+as a direct credit against the special tax, reducing total business tax liability
+to $2,500. In no event would the credits for sales taxes reduce the general
+business license tax below the existing minimum payment of $1,300.
+
+The combined total of the general business license tax and the special
+capital improvement tax cannot exceed $10,000 for the calendar year 2009,
+$22,500 for the calendar year 2010, and $35,000 for the calendar year
+2011. Thereafter, the limit of $35,000 is subject to annual adjustment based
+upon the percentage increase in the Consumer Price Index. Consequently,
+a business having gross receipts in excess of $10,000,000 would never pay
+less than $1,300 or more than the specified limit on the combined total of
+general and special business license taxes during any single tax year.
+
+Because it is a special tax that may only be used for the purpose of
+financing capital improvement projects, Measure T requires a two-thirds
+vote for passage. A “Yes” vote is a vote in favor of the special tax and a
+“No” vote is a vote against the special tax.
+
+<impartialend>

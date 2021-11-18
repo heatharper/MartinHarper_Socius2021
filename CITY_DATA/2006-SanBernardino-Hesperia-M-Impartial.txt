@@ -1,0 +1,31 @@
+<impartial>
+
+MEASURE “M”
+IMPARTIAL ANALYSIS
+
+A majority “yes” vote would enact Measure “M”.
+
+Measure “M” would increase Hesperia’s transient occupancy tax (“TOT”) from 7% to
+10%. The TOT, commonly referred to as a “bed tax” is imposed upon travelers who
+spend the night at a Hotel/Motel in the city, and is intended to compensate the city for
+the drain on resources that Hotel/Motel occupants create. The Hotel/Motel operator
+collects the TOT for the city and remits the amount collected to the city on a regular
+basis. The TOT is classified as a “General Tax”. Consequently, under State
+Proposition 218, any increase in the TOT must be approved by a majority of the city’s
+voters voting at a general election. Revenue derived from the TOT is deposited in the
+city’s general fund and may be used for general municipal purposes; such as: Public
+Safety Services and other public services, as well as construction and maintenance of
+city property, including buildings, streets, parks and other city works of improvement.
+
+Existing Law
+
+The city’s TOT is presently imposed at the rate of 7% of the rent charged by the
+Hotel/Motel operator.
+
+Effect Measure “M” on Existing Law
+
+Measure “M”, if approved by a majority of the city’s voters voting at the November 7,
+2006 general election, will increase the TOT rate from 7% to 10%. If Measure “M” is
+not approved, the TOT will remain at 7%.
+
+<impartialend>

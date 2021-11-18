@@ -1,0 +1,23 @@
+
+<impartial>
+
+Impartial Analysis from Oakland’s City Attorney
+Proposition 218 (California Constitution Article 13C) requires that voters approve any increase in taxes. This measure asks that Oakland voters approve changes to the current parcel tax, which provides funding for library services. A two-thirds (2/3) vote of approval is required to pass the tax.
+This measure would amend the existing library tax by both increasing the parcel tax funding for City library services and extending by 15 years the life of the parcel tax.
+The proceeds of the tax may be used only (1) to keep branch and the main libraries open, (2) to expand library collections, education and cultural programs for youth, literacy and information technology programs, (3) to operate the African-American museum and library program, (4) for joint educational activities with local schools, (5) for children's librarians, (6) for operation of a joint school public library in East Oakland, computer upgrades, and (7) for after-school homework and teen programs.
+For residential property parcels, the proposed amendments would increase the existing parcel tax annual rate as follows: (1) from $36.06 to $75.00 for single-family parcels; and (2) from $24.63 to $47.82 per unit for multi-unit residential parcels.
+For non-residential parcels the tax rate would increase from $18.47 to $35.85 per "Single Family Equivalent" ("SFE"). This measure does not change the definition of SFE or the formula that the current parcel tax law uses to calculate the parcel tax on non-residential parcels. The tax for a non-residential parcel is calculated by multiplying the number of SFEs by the tax rate.
+To calculate the tax for a non-residential parcel, a property owner would determine the parcel's "land use category" and the number of SFEs in the property's "Frontage" (width of the front of the property) and "Area" (square footage of the property). (See Table below.) For example, a commercial/institutional property with frontage of 160 feet and an area of 6,400 has a total of three SFEs. The frontage of 160 feet equals two SFEs because each 80 feet of frontage equals one SFE; the 6,400 area equals one SFE because each 6,400 square feet of area equals one SFE. The annual tax for the property therefore would be three times the new tax rate of $35.85 per SFE or $107.55. (See Table below.)
+
+Land Use Category		FRONTAGE (FEET) per		AREA (SQ FEET) per
+				Single Family Equivalent		Single Family Equivalent
+Commercial/Institutional	80					6,400
+Industrial			100					10,000
+Public Utility			1,000					100,000
+Golf Course			500					100,000
+Quarry				1,000					250,000
+
+The current tax will expire in 2009 unless voters pass this or another measure that extends the life of the tax. If Oakland voters pass this measure, the tax will be in effect until 2024.
+This measure provides that the City may collect this tax only if it provides a minimum of $9,059,989 of funding for libraries each fiscal year.
+
+<impartialend>

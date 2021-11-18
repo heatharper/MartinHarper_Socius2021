@@ -1,0 +1,33 @@
+<impartial>
+
+IMPARTIAL ANALYSIS OF MEASURE “Y”
+
+(Public Safety Tax)
+
+Passage of this measure would result in the levying of a public safety tax in the amount of $94.19 per equivalent dwelling unit to fund the hiring of
+seven additional fire fighters, the implementation of a paramedic engine company program, the hiring of seven additional police officers and the
+hiring of four civilian police personnel. This is a special tax which may be utilized only for the purpose indicated in the ballot measure.
+
+An equivalent dwelling unit and hence, the specific amount of the tax is determined pursuant to the following formula:
+
+Property Type Land Use Code		EDU	Multiplier
+Commercial Vacant	CMV	0.500	Per Parcel
+Commercial Developed	COM	4.000	Per Acre
+Multi Family Residential	MFR	1.000	Per Unit
+Multi Family Vacant	MFV	0.500	Per Parcel
+Mobile Home Park	MHP	1.000	Per Unit
+Recreational	REC	2000	Per Acre
+Single Family Residential	SFR	1.000	Per Unit
+Single Family Vacant	SFV	0.500	Per Parcel
+Under-Developed Commercial	UDC	2.000	Per Acre
+Under-Developed Residential	UDR	1.000	Per Unit
+Undefined Vacant	UDV	0.000	Per Parcel
+
+The $94.19 is the maximum which may be levied by three affirmative votes of the City Council.
+
+If the property owner subject to the special tax believes that the payment of the tax during a fiscal year would create a hardship, the property-owner may appeal the levy by filing a hardship appeal to the City Council.
+
+It is anticipated that the tax will generate $502,000 dollars for fire services and $958,000 dollars for police services. This tax will only be effective if
+approved by two-thirds (2/3rd’s) majority of the voters voting in the election and may only be amended or repealed by the same process.
+
+<impartialend>
